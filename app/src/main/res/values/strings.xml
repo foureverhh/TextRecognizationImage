@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TextRecognizationImage</string>
+    <string name="btn_process">Process</string>
+    <string name="default_text">No result</string>
 </resources>
